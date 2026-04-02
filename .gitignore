@@ -1,0 +1,14 @@
+# Python Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Datasets (Ignoring the large 146MB dataset as GitHub blocks files > 100MB)
+marketing/munimai_dataset.csv
+
+# Generated Output / Cache
+marketing/static/eda/
+.pytest_cache/

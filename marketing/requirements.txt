@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+mlxtend
+prophet
+matplotlib
+seaborn
+twilio
+firebase-admin
+python-dotenv
+jinja2
